@@ -1,0 +1,11 @@
+../Components/Src/servo_motor_outputs.c:66:6:SERVO_Motor_Init	16	static
+../Components/Src/servo_motor_outputs.c:74:6:SERVO_Motor_Loop	8	static
+../Components/Src/servo_motor_outputs.c:96:6:SERVO_Motor_OneSecondCall	4	static
+../Components/Src/servo_motor_outputs.c:101:6:SERVO_Motor_ON	16	static
+../Components/Src/servo_motor_outputs.c:106:6:SERVO_Motor_OFF	16	static
+../Components/Src/servo_motor_outputs.c:111:9:SERVO_Motor_CHECK	16	static
+../Components/Src/servo_motor_outputs.c:116:6:SERVO_Motor_All_High	16	static
+../Components/Src/servo_motor_outputs.c:124:6:SERVO_Motor_All_Low	16	static
+../Components/Src/servo_motor_outputs.c:132:13:_servo_outputs_refresh_all	24	static
+../Components/Src/servo_motor_outputs.c:141:13:_165_inputs_scan	16	static
+../Components/Src/servo_motor_outputs.c:161:16:_inputs_read_pin	32	static

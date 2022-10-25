@@ -1,0 +1,3 @@
+../AppTest/Src/apptTest.c:25:6:AppTest_Init	8	static
+../AppTest/Src/apptTest.c:30:6:AppTest_Loop	8	static
+../AppTest/Src/apptTest.c:35:6:AppTest_CallEachSecond	8	static
